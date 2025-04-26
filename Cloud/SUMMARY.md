@@ -14,7 +14,3 @@
   * [👨‍💻 Administrar cuenta](makesens-cloud/aplicacion/administrar-cuenta.md)
 * [🔔 Reporte de conectividad](makesens-cloud/reporte-de-conectividad.md)
 * [📈 Dashboards](makesens-cloud/dashboards.md)
-
-***
-
-* [Page](page.md)
