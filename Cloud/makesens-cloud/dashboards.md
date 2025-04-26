@@ -10,13 +10,13 @@ Los dashboards de datos, sirven para visualizar y compartir los datos de tus dis
 
 {% tabs %}
 {% tab title="Control" %}
-<figure><img src="broken-reference" alt=""><figcaption><p>Control</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/control.png" alt=""><figcaption><p>Control</p></figcaption></figure>
 
 En la parte **izquierda** del recuadro se puede observar el **ID** del dispositivo que ha generado los datos que se visualizan, mientras que en la **derecha** se tiene **dos herramientas**, una para **controlar** las **fechas** en que se desea **visualizar** los datos y la otra el periodo de tiempo en que se quiere **promediar** los **datos**, esto ultimo suavizara los gráficos.
 {% endtab %}
 
 {% tab title="Estado" %}
-<figure><img src="broken-reference" alt=""><figcaption><p>Estado</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Estado.png" alt=""><figcaption><p>Estado</p></figcaption></figure>
 
 Para este componente se tienen 3 columnas, cada una representa:
 
@@ -33,7 +33,7 @@ Para este componente se tienen 3 columnas, cada una representa:
 {% endtab %}
 
 {% tab title="Medicion" %}
-<figure><img src="broken-reference" alt=""><figcaption><p>Medición</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Medicion.png" alt=""><figcaption><p>Medición</p></figcaption></figure>
 
 {% hint style="info" %}
 **INFO**: En cada medición, se muestra un número junto a una curva más oscura. Este número corresponde al sensor principal que se ha utilizado para realizar esa medición y la curva más oscura representa los datos recopilados por dicho sensor. De esta manera, podrás identificar rápidamente cuál es el sensor principal utilizado en cada medición y entender mejor la información presentada en la gráfica.
@@ -50,7 +50,7 @@ Cada medición esta compuesta por dos tipos componentes.
 {% endtab %}
 
 {% tab title="Mapa" %}
-<figure><img src="broken-reference" alt=""><figcaption><p>mapa</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mapa.png" alt=""><figcaption><p>mapa</p></figcaption></figure>
 
 Cada Dashboard contiene un Mapa con la ubicación del dispositivo que ha generado la informacion que se visualiza en el dashboard. Esta información se configura desde MakeSens Cloud , puede ver mas detalles desde [Broken link](broken-reference "mention")
 {% endtab %}

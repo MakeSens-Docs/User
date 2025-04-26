@@ -2,7 +2,7 @@
 description: >-
   Makesens Cloud es una aplicación web, la puedes usar desde tu teléfono o
   computadora.
-cover: broken-reference
+cover: ../.gitbook/assets/Cloud.png
 coverY: 182.482254697286
 layout:
   cover:
@@ -22,12 +22,6 @@ layout:
 
 # 🏳️ Inicio
 
-{% hint style="info" %}
-Puedes usarla desde el PC o celular
-{% endhint %}
+A continuación puedes ir directamente a algunas funcionalidades de MakeSens Cloud
 
-¡Bienvenido a MAKESENS CLOUD, esta es un plataforma en la nube diseñada para simplificar y potenciar la gestión de dispositivos de monitoreo ambiental inteligente!. Es una solución que resuelve los desafíos que enfrentan las organizaciones con múltiples dispositivos remotos que recopilan datos vitales. Estos datos no solo alimentan proyectos críticos, sino que también se comparten con diferentes personas y equipos dentro de las organización.
-
-MAKESENS CLOUD es la respuesta a estas necesidades. Queremos que te sumerjas en este producto digital en constante evolución.  y accesibilidad para tus datos ambientales. A continuación, te presentamos algunas de las herramientas que hemos desarrollado para hacer que tengas una buena experiencia usando nuestras tecnologías.
-
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Aplicación</strong></mark></td><td align="center">Encontraras todo lo que puede hacer la app</td><td><a href="broken-reference">Broken link</a></td><td><a href="aplicacion/">aplicacion</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Reportes</strong></mark></td><td align="center">Podrás generar reportes mensuales de la conectividad de tus equipos</td><td><a href="broken-reference">Broken link</a></td><td><a href="https://docs.makesens.co/help/makesens-cloud/reporte-de-conectividad">https://docs.makesens.co/help/makesens-cloud/reporte-de-conectividad</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Desaborad</strong></mark></td><td align="center">Monitorea el estado de tus dispositivos de una manera efectiva</td><td><a href="broken-reference">Broken link</a></td><td><a href="dashboards.md">dashboards.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Funcionalidades</strong></mark> </td><td align="center">Encontraras todo lo que puede hacer la app</td><td><a href="../.gitbook/assets/funcion.png">funcion.png</a></td><td><a href="https://docs.makesens.co/help/makesens-cloud/funcionalidades">https://docs.makesens.co/help/makesens-cloud/funcionalidades</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Reportes</strong></mark></td><td align="center">Podrás generar reportes mensuales de la conectividad de tus equipos</td><td><a href="../.gitbook/assets/reportes.png">reportes.png</a></td><td><a href="https://docs.makesens.co/help/makesens-cloud/reporte-de-conectividad">https://docs.makesens.co/help/makesens-cloud/reporte-de-conectividad</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Dashboards</strong></mark></td><td align="center">Monitorea el estado de tus dispositivos de una manera efectiva</td><td><a href="../.gitbook/assets/Dash.png">Dash.png</a></td><td><a href="dashboards.md">dashboards.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>¿Cómo está organizado Makesens Cloud?</strong></mark></td><td align="center">Organizaciones, Proyectos y dispositivos</td><td><a href="../.gitbook/assets/cloud-database-hosting-svgrepo-com-01.svg">cloud-database-hosting-svgrepo-com-01.svg</a></td><td><a href="como-esta-organizado-makesens-cloud.md">como-esta-organizado-makesens-cloud.md</a></td></tr></tbody></table>

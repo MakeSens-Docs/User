@@ -1,6 +1,6 @@
 ---
 description: Correo programado para informarte el estado mensual de tu dispositivo.
-cover: broken-reference
+cover: ../.gitbook/assets/2-07.png
 coverY: 0
 ---
 
@@ -14,7 +14,7 @@ Puedes ver como activar Alertas y reportes en el siguiente Link.
 
 El reporte esta compuesto por 3 secciones.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/reporte conectividad flechas.png" alt=""><figcaption></figcaption></figure>
 
 ### **1. Mensaje personalizado:** &#x20;
 
