@@ -1,5 +1,5 @@
 ---
-description: Para ver todos los datos de tu estación sigue estas instrucciones
+description: Para ver todos los datos de tu estación sigue el siguiente instrucción
 ---
 
 # 📊 Ver datos y estados de los dispositivos
