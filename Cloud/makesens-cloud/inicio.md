@@ -1,9 +1,9 @@
 ---
 description: >-
-  MAKESENS CLOUD es una aplicación web, para administrar, monitorear y organizar
-  los dispositivos MAKESENS de tu organización.
+  Makesens Cloud es una aplicación web, la puedes usar desde tu teléfono o
+  computadora.
 cover: broken-reference
-coverY: 204
+coverY: 182.482254697286
 layout:
   cover:
     visible: true
